@@ -1,0 +1,53 @@
+html,
+body {
+  overflow-x: hidden;
+}
+.title-font {
+  font-family: "Lobster Two", cursive;
+  font-size: 3rem;
+  /* color: #1d3960; */
+  text-align: center;
+  margin: 5%;
+}
+
+.slider_font {
+  font-family: "Lobster Two", cursive;
+  font-size: 3.2rem;
+  color: white;
+  text-align: center;
+  /* margin: 5%; */
+}
+
+.cake-img {
+  width: 42%;
+}
+.cake-img-div {
+  background-color: #1d3960;
+  padding: 6%;
+}
+
+.wish_one_div {
+  font-family: "Nova Mono", monospace;
+  font-size: 2rem;
+  background-color: #db8787;
+}
+
+.wish_text {
+  /* margin: 0% 8%; */
+  text-align: justify;
+  padding: 7%;
+  color: linen;
+}
+
+.wishes_title {
+  padding: 3%;
+}
+
+.wishes_sec {
+  padding: 4%;
+}
+
+.wishes_sec_komda {
+  padding: 10%;
+  padding-top: 1%;
+}
